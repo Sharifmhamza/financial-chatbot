@@ -1,1 +1,7 @@
-
+flask
+transformers
+torch
+gunicorn
+sentencepiece
+faiss-cpu
+streamlit
