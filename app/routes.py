@@ -4,7 +4,7 @@ import torch
 import json
 import os
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='../templates')
 
 MODEL_PATH = "model"
 pipe = pipeline("fill-mask", model="google-bert/bert-base-uncased")
