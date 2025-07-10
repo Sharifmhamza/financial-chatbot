@@ -1,1 +1,5 @@
-
+{
+  "low_risk_etf": "Based on your profile, I recommend {product} for a low-risk investment.",
+  "medium_risk_stocks": "A medium-risk portfolio may include {product} to balance growth and stability.",
+  "high_risk_crypto": "For high-risk appetite, you could consider {product} with proper diversification."
+}
