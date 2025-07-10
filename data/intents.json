@@ -1,1 +1,5 @@
-
+[
+  {"intent": "low_risk_etf"},
+  {"intent": "medium_risk_stocks"},
+  {"intent": "high_risk_crypto"}
+]
